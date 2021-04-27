@@ -1,3 +1,1 @@
-```html
-<script src="https://tryhackme.com/badge/437491"></script>
-```
+ <img src="https://tryhackme-badges.s3.amazonaws.com/PoTaTobeater69.png" alt="TryHackMe">
